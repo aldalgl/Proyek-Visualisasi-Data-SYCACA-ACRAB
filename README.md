@@ -5,11 +5,11 @@
 Proyek ini menggunakan dataset Netflix Movies dan TV Shows yang bersumber dari Kaggle. Netflix merupakan media platform streaming yang paling populer, dan dataset ini menyajikan informasi seputar movie dan TV show yang ada di aplikasi beserta dengan informasi-informasi pendukung lainnya. Untuk dapat memahami data secara efektif dan efisien, maka pada proyek ini dirancang dashboard yang akan menyajikan beragam visualisasi data textual, temporal, dan spatial dengan menggunakan tableau sebagai tools-nya.
 
 Dashboard yang dirancang menampilkan 5 panel visualisasi yaitu:
-- Movies or TV Shows Director Worldwide
-- Number of Movies & TV Shows per Year
-- Number of Movies & TV Shows by Genre per Last 5 Year
-- TOP 5 Netflix Genre
-- TOP 10 Rating Category
+<p> ✅ Movies or TV Shows Director Worldwide </p>
+<p> ✅ Number of Movies & TV Shows per Year </p>
+<p> ✅ Number of Movies & TV Shows by Genre per Last 5 Year </p>
+<p> ✅ TOP 5 Netflix Genre </p>
+<p> ✅ TOP 10 Rating Category </p>
 
 ## Idiom
 Seluruh idiom dianalisis menggunakan What-Why-How Framework. 
